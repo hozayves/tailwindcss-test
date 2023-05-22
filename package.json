@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "build:css": "tailwind build src/input.css -o dist/output.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
